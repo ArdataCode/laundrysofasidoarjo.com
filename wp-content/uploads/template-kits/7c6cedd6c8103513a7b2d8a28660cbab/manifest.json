@@ -1,0 +1,1093 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Cleanary - Cleaning Service Company Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Booking",
+            "screenshot": "screenshots\/metform-booking.jpg",
+            "source": "templates\/metform-booking.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/metform-booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.10.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hero-P8SDR7K.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/hero-P8SDR7K-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 239518,
+            "dimensions": [
+                1920,
+                815
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8SDR7K"
+        },
+        {
+            "filename": "fast.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/fast.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 10516,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HZLNVEF"
+        },
+        {
+            "filename": "pay.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/pay.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 12756,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FV62TV"
+        },
+        {
+            "filename": "tools.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/tools.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 9405,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFCLHT7"
+        },
+        {
+            "filename": "cleaner.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/cleaner.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 10782,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFCLHT7"
+        },
+        {
+            "filename": "young-beautiful-asian-woman-housekeeping-in-the-kitchen_t20_YQeJKR.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/young-beautiful-asian-woman-housekeeping-in-the-kitchen_t20_YQeJKR-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 104776,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/afa5cf56-67e5-48f2-9134-7140b6d25140"
+        },
+        {
+            "filename": "afro-woman-cleaning-new-home--e1613469416387.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/afro-woman-cleaning-new-home--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 218867,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P2E7L6C"
+        },
+        {
+            "filename": "kit-of-modern-professional-steam-cleaners-on-blue-background-top-view-flat-lay-banner-with-copy-e1612928932463.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/kit-of-modern-professional-steam-cleaners-on-blue-background-top-view-flat-lay-banner-with-copy-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 214624,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8VAZB5N"
+        },
+        {
+            "filename": "bg.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/bg-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 29930,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/cleanary\/"
+        },
+        {
+            "filename": "home.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 8680,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-85YV3UJ"
+        },
+        {
+            "filename": "furniture.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/furniture.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 10528,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-85YV3UJ"
+        },
+        {
+            "filename": "office.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/office.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 10768,
+            "dimensions": [
+                301,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EX5Z6L"
+        },
+        {
+            "filename": "resident.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/resident.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6858,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JDDBF3"
+        },
+        {
+            "filename": "appart.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/appart.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6478,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EX5Z6L"
+        },
+        {
+            "filename": "car.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/car.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 8664,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFCLHT7"
+        },
+        {
+            "filename": "coffeeshop-owner-cleaning-counter-e1613469180652.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/coffeeshop-owner-cleaning-counter-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 251717,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WWD933W"
+        },
+        {
+            "filename": "worker-shows-tools-for-dry-cleaning-and-detailing-e1613469186954.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/worker-shows-tools-for-dry-cleaning-and-detailing-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 213296,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QGHHA2D"
+        },
+        {
+            "filename": "cleaning-the-window-e1613469198472.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/cleaning-the-window-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 182548,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HYW5HWH"
+        },
+        {
+            "filename": "young-asian-girl-with-gloves-and-spray-cleaning-windows-e1613469160163.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/young-asian-girl-with-gloves-and-spray-cleaning-windows-800x510.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 178115,
+            "dimensions": [
+                1920,
+                1224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TKVDGVB"
+        },
+        {
+            "filename": "Image-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/Image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 31858,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "Image.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/Image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "Testimonial.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/Testimonial.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "Testimonial-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/Testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 30058,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A8E2W8S"
+        },
+        {
+            "filename": "housewife-holding-rag-JUC4C8X.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/housewife-holding-rag-JUC4C8X-800x1078.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 242536,
+            "dimensions": [
+                1024,
+                1380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JUC4C8X"
+        },
+        {
+            "filename": "housewife-hold-towel-ESBSJ3Z.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/housewife-hold-towel-ESBSJ3Z-800x1078.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 243323,
+            "dimensions": [
+                1024,
+                1380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ESBSJ3Z"
+        },
+        {
+            "filename": "asian-housewife-ZT44MQF.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/asian-housewife-ZT44MQF-800x1078.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 202150,
+            "dimensions": [
+                1024,
+                1380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZT44MQF"
+        },
+        {
+            "filename": "housewife-cleaning-table-e1613469205785.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/housewife-cleaning-table-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 188328,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B29AUJX"
+        },
+        {
+            "filename": "woman-cleaning-kitchen-with-disinfecting-spray-and-microfiber-e1613469260381.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/woman-cleaning-kitchen-with-disinfecting-spray-and-microfiber-800x505.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 177209,
+            "dimensions": [
+                1920,
+                1212
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A9GQVVR"
+        },
+        {
+            "filename": "washing-dirty-windows-wash-the-windows-of-the-atomizer-e1613469242950.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/washing-dirty-windows-wash-the-windows-of-the-atomizer-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 377409,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7BVCH58"
+        },
+        {
+            "filename": "woman-holding-a-cleaning-agent-e1613469220255.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/woman-holding-a-cleaning-agent-800x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 103638,
+            "dimensions": [
+                1920,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTNCYCJ"
+        },
+        {
+            "filename": "man-cleaning-kitchen-worktop-at-home-e1613469148264.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/man-cleaning-kitchen-worktop-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 171150,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W7ZCDUW"
+        },
+        {
+            "filename": "worker-cleaning-stove-surface-e1613469168419.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/worker-cleaning-stove-surface-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 178504,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UMM7NGL"
+        },
+        {
+            "filename": "young-woman-wearing-rubber-gloves-cleaning-the-fridge.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/young-woman-wearing-rubber-gloves-cleaning-the-fridge-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 172745,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPTGWZ5"
+        },
+        {
+            "filename": "portrait-of-woman-wearing-hi-vis-vest-and-face-mask-holding-cleaning-cloth-and-disinfectant-e1613469139200.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/portrait-of-woman-wearing-hi-vis-vest-and-face-mask-holding-cleaning-cloth-and-disinfectant-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 91793,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7QFW9BU"
+        },
+        {
+            "filename": "gloved-hand-of-young-man-rubbing-wooden-table-with-RZ5XEDH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/gloved-hand-of-young-man-rubbing-wooden-table-with-RZ5XEDH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 207966,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RZ5XEDH"
+        },
+        {
+            "filename": "image-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "little-girl-and-her-mom-cleaning-table-surface-from-dust-e1613469123567.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/little-girl-and-her-mom-cleaning-table-surface-from-dust-800x380.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 91665,
+            "dimensions": [
+                1920,
+                912
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-73WAA2R"
+        },
+        {
+            "filename": "logo-header.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/logo-header.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6280,
+            "dimensions": [
+                529,
+                133
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/cleaning-logo-design-collection_7148796.htm "
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cleanary\/wp-content\/uploads\/sites\/39\/2021\/02\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 5865,
+            "dimensions": [
+                529,
+                133
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/cleaning-logo-design-collection_7148796.htm "
+        }
+    ]
+}
